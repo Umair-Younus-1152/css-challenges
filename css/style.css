@@ -1,0 +1,92 @@
+body{
+    font-family: 'Roboto', sans-serif;
+   font-size: 21;
+} 
+
+h1{
+   
+    font-size: 60px;
+    font-weight: normal;
+
+}
+
+
+h2{
+    font-size: 42px;
+    font-weight: normal;
+}
+
+
+h3{
+    font-size: 36px;
+    font-weight: 900;
+}
+
+small{
+    
+    font-size: 16px;
+
+}
+.light{
+    font-weight: 300;
+}
+
+h1.extra {
+    font-size: 80px;
+}
+
+h2.extra{
+    font-size: 60px;
+}
+.bold{
+    display: block;
+    font-weight: bold;
+}
+a{
+    color: #99D930 ;
+}
+a:hover{
+    color:#131313 
+}
+
+.header1{
+    background-color:  #D7D7D7;
+    padding: 200px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.header1 img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border: #EAF9FF solid 5px;
+}
+.section {
+    padding: 200px 0;
+    
+  }
+  
+  .about-me {
+    background-color: #FFEAEA;
+    padding: 200px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+   
+  }
+  
+  .articles {
+    margin: 0 auto;
+    background-color: #EAF9FF ;
+    padding: 200px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    text-align: center;
+
+  }
